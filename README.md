@@ -11,7 +11,7 @@ An AI-powered image generator built entirely with **ReactJS**, integrating the *
 
 ## 📌 Project Description
 
-This project is a frontend-only web application that allows users to generate AI images using the **Gemini API** by Google. Simply enter a descriptive text prompt (e.g., "a dragon flying over a city at night") and receive a unique AI-generated image instantly.
+This project is a frontend-only web application that enables users to generate AI images using the **Google Gemini API**. Enter a descriptive text prompt (e.g., "a dragon flying over a city at night") and receive a unique AI-generated image instantly.
 
 It's lightweight, responsive, and requires only a valid Gemini API key to function.
 
@@ -72,7 +72,7 @@ bash
 Copy
 Edit
 npm install
-3️⃣ . Add Gemini API Key
+3️⃣ Add Gemini API Key
 Create a .env file in the root of the project:
 
 ini
@@ -81,9 +81,12 @@ Edit
 VITE_GEMINI_API_KEY=your_google_gemini_api_key
 ⚠️ Don't forget to restart the dev server after editing .env.
 
-4️⃣ . Run the App
+4️⃣ Run the App
 bash
 Copy
 Edit
 npm run dev
+
+
+
 
