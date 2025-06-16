@@ -2,6 +2,8 @@
 
 An AI-powered image generator built entirely with **ReactJS**, integrating the **Google Gemini API** to generate images from text prompts.
 
+![Image](https://github.com/user-attachments/assets/fbe14821-91a6-4088-abec-3b1168b5d2da)
+
 ---
 
 ## 🚀 Live Demo
