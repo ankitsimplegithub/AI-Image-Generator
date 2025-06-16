@@ -13,7 +13,9 @@ An AI-powered image generator built entirely with **ReactJS**, integrating the *
 
 ## 📌 Project Description
 
-This project is a frontend-only web application that enables users to generate AI images using the **Google Gemini API**. Enter a descriptive text prompt (e.g., "a dragon flying over a city at night") and receive a unique AI-generated image instantly.
+This project is a frontend-only web application that enables users to generate AI images using the **Google Gemini API**. Enter a descriptive text prompt (e.g., "Antique bike in Golden colour") and receive a unique AI-generated image instantly.
+
+![Image](https://github.com/user-attachments/assets/feef3022-e732-42ad-a02b-0686814d62de)
 
 It's lightweight, responsive, and requires only a valid Gemini API key to function.
 
