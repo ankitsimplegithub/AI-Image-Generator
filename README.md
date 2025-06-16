@@ -54,38 +54,8 @@ AI-Image-Generator/
 ├── package.json
 └── README.md
 
-yaml
-Copy
-Edit
 
----
 
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/ankitsimplegithub/AI-Image-Generator.git
-cd AI-Image-Generator
-2️⃣ Install Dependencies
-bash
-Copy
-Edit
-npm install
-3️⃣ Add Gemini API Key
-Create a .env file in the root of the project:
-
-ini
-Copy
-Edit
-VITE_GEMINI_API_KEY=your_google_gemini_api_key
-⚠️ Don't forget to restart the dev server after editing .env.
-
-4️⃣ Run the App
-bash
-Copy
-Edit
-npm run dev
 
 
 
